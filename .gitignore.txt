@@ -1,0 +1,4 @@
+.DS_Store
+**/.ipynb_checkpoints/
+/Private notebooks
+/Private lecture notes
